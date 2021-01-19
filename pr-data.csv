@@ -532,7 +532,7 @@ https://github.com/apache/incubator-dubbo,737f7a7ea67832d7f17517326fb2491d0a086d
 https://github.com/apache/incubator-dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-config/dubbo-config-api,org.apache.dubbo.config.validation.ValidationTest.testValidation,OD-Vic,,,
 https://github.com/apache/incubator-dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-compatible,org.apache.dubbo.echo.EchoServiceTest.testEcho,OD-Vic,,,
 https://github.com/apache/incubator-dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-config/dubbo-config-api,org.apache.dubbo.generic.GenericServiceTest.testGeneric,UD,,,
-https://github.com/apache/incubator-dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-config/dubbo-config-api,org.apache.dubbo.generic.GenericServiceTest.testGeneric2,UD,,,
+https://github.com/apache/incubator-dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-compatible,org.apache.dubbo.generic.GenericServiceTest.testGeneric2,UD,,,
 https://github.com/apache/incubator-dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-monitor/dubbo-monitor-default,org.apache.dubbo.monitor.dubbo.DubboMonitorTest.testMonitorFactory,UD,,,
 https://github.com/apache/incubator-dubbo,3fc2d100bb2081c3da1996508e1f1200cea21d2f,dubbo-registry/dubbo-registry-api,org.apache.dubbo.registry.client.metadata.ServiceInstanceMetadataUtilsTest.testMetadataServiceURLParameters,ID,,,
 https://github.com/apache/incubator-dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-registry/dubbo-registry-default,org.apache.dubbo.registry.dubbo.RegistryProtocolTest.testDestoryRegistry,OD,Accepted,https://github.com/apache/dubbo/pull/3849,
@@ -1000,7 +1000,7 @@ https://github.com/fromage/redpipe,0aff891d6befdf0dcc2bdbfda22262cdf82ac66f,redp
 https://github.com/funkygao/cp-ddd-framework,8c69f6a50db83459356a2ae66a910b1905fe4eb5,dddplus-test,io.github.dddplus.runtime.registry.IntegrationTest.exportDomainArtifacts,ID,,,
 https://github.com/funkygao/cp-ddd-framework,8c69f6a50db83459356a2ae66a910b1905fe4eb5,dddplus-test,io.github.dddplus.testing.LogAssertTest.contains,OD,,,https://github.com/TestingResearchIllinois/flaky-test-dataset/issues/80
 https://github.com/gooddata/GoodData-CL,58728ec3e57ea9a4d689f38b0b385e8724af618c,connector,com.gooddata.csv.DataTypeGuessTest.testIsDate,OD,Opened,https://github.com/gooddata/GoodData-CL/pull/145,
-https://github.com/google/java-monitoring-client-library,3212364c3e535530c3d96e127c42d302e2c0064b,metrics,com.google.monitoring.metrics.MetricRegistryImplTest.testRegisterAndUnregister_tracksRegistrations,OD-Vic,Opened,https://github.com/google/java-monitoring-client-library/pull/21, 
+https://github.com/google/java-monitoring-client-library,3212364c3e535530c3d96e127c42d302e2c0064b,metrics,com.google.monitoring.metrics.MetricRegistryImplTest.testRegisterAndUnregister_tracksRegistrations,OD-Vic,Opened,https://github.com/google/java-monitoring-client-library/pull/21,
 https://github.com/google/jimfs,ced6093fe69a31e37ba8bbf63858b50c7164f4a4,jimfs,com.google.common.jimfs.JimfsFileChannelTest.testCloseByInterrupt,UD,,,
 https://github.com/googleapis/google-auth-library-java,0a8412fcf9de4ac568b9f88618e44087dd31b144,appengine,com.google.auth.appengine.AppEngineCredentialsTest.warnsDefaultCredentialsWithTransport,OD,,,https://github.com/TestingResearchIllinois/flaky-test-dataset/issues/81
 https://github.com/graphhopper/graphhopper,91f1a89a0b515328109a659e445b1008d9db8769,isochrone,com.graphhopper.isochrone.algorithm.IsochroneTest.testSearch,ID,,,
